@@ -1,12 +1,7 @@
-This is a tutorial presented during a [workshop](https://www.appliedmldays.org/workshops/hands-on-pytorch-tutorial) at the Applied Machine Learning Days 2019.
-
-## Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahug/amld-pytorch-workshop/master) 
-<br />
+This is a tutorial presented during a [workshop](https://appliedmldays.org/workshops/pytorch-tutorial) at the Applied Machine Learning Days 2020.
 
 ## Google Colab
-As an alternative to Binder, you can also use [Google Colaboratory](https://colab.research.google.com), 
-though you should use Binder if possible.
+We will use [Google Colaboratory](https://colab.research.google.com)
 
 ### Using Google Colab
 The Google Colab notebooks are available under:
@@ -27,16 +22,20 @@ You can add GPU support on Google Colab by changing the runtime type as depicted
 ![Google Colab Runtime](figures/colab-runtime.png)
 <br />
 
-## During the Workshop
-During the workshop, we _highly recommend_ to use **Binder** or **Google Colab**. 
-If you want to run the notebooks again later, you can use the following setup using [Anaconda](https://www.anaconda.com/). Unfortunately, we won't have time to help you with your conda installation. 
-<br /><br /><br /><br />
+## Other installations
 
-## Using conda
+We _highly recommend_ to use **Google Colab**.  
+However, it also possible to use **Binder** or to install it locally.
+
+### Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theevann/amld-pytorch-workshop/master) 
+<br />
+
+### Installing locally using conda
 If you want to run the notebooks locally, you can use `conda`. The following instructions
 should work on Linux/Mac OS, Windows might require slight adaptations.
 
-### Step 1: Install conda
+#### Step 1: Install conda
 If you have not installed it yet, you can download it from [Anaconda (Python 3.6 version)](https://www.anaconda.com/download/#linux).
 
 Verify that it is installed by running
@@ -49,7 +48,7 @@ Make sure your conda installation is up-to-date:
 conda update conda
 ```
 
-### Step 2: Download repository and install environment
+#### Step 2: Download repository and install environment
 Now clone the repository:
 ```bash
 git clone https://github.com/ahug/amld-pytorch-workshop.git
@@ -67,7 +66,7 @@ conda env create -f environments.yml
 ```
 
 
-### Step 3: Activate/Deactivate the environment
+#### Step 3: Activate/Deactivate the environment
 After the environment has been created, you can **activate** it by
 ```bash
 source activate amld-pytorch
