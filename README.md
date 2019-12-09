@@ -1,17 +1,19 @@
 This is a tutorial presented during a [workshop](https://appliedmldays.org/workshops/pytorch-tutorial) at the Applied Machine Learning Days 2020.
 
-## Google Colab
-We will use [Google Colaboratory](https://colab.research.google.com)
+## Notebooks on Google Colab
+We will use jupyter notebooks throughout this tutorial.  
+We recommend to run them online on [Google Colaboratory](https://colab.research.google.com).
+That way, you don't have to install anything and you have access to a gpu for free !
+
+The Google Colab notebooks are available under:
+1. [Basics](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/1-Basics.ipynb)
+1. [Autograd](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/2-Autograd.ipynb)
+1. [Optimization](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/3-Optimization.ipynb)
+1. [Modules](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/4-Modules.ipynb)
+1. [CNN](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/5-CNN.ipynb)
+1. [Transfer Learning](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/6-Transfer-Learning.ipynb)
 
 ### Using Google Colab
-The Google Colab notebooks are available under:
-- [1-Basics.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/1-Basics.ipynb)
-- [2-Autograd.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/2-Autograd.ipynb)
-- [3-Optimization.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/3-Optimization.ipynb)
-- [4-Modules.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/4-Modules.ipynb)
-- [5-CNN-LSTM.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/5-CNN-LSTM.ipynb)
-- [6-Transfer-Learning.ipynb](https://colab.research.google.com/github/ahug/amld-pytorch-workshop/blob/master/6-Transfer-Learning.ipynb)
-
 
 In order to use Google Colab, you have to login using your Google account:
 ![Google Colab Login](figures/colab-connect.png)
@@ -24,8 +26,8 @@ You can add GPU support on Google Colab by changing the runtime type as depicted
 
 ## Other installations
 
-We _highly recommend_ to use **Google Colab**.  
-However, it also possible to use **Binder** or to install it locally.
+We _highly recommend_ to use **Google Colab**  
+As an alternative, you can also use **Binder** or run the notebooks **locally**.
 
 ### Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theevann/amld-pytorch-workshop/master) 
@@ -51,7 +53,7 @@ conda update conda
 #### Step 2: Download repository and install environment
 Now clone the repository:
 ```bash
-git clone https://github.com/ahug/amld-pytorch-workshop.git
+git clone https://github.com/theevann/amld-pytorch-workshop.git
 cd amld-pytorch-workshop
 ```
 
@@ -82,7 +84,7 @@ The environment can similarly **deactivated** by
 source deactivate
 ```
 
-## Additionnal resources:
+## Additionnal resources
 Check out these others tutorials and courses:
 - Official tutorials : https://pytorch.org/tutorials/
 - PyTorch for DL (.py files): https://github.com/yunjey/pytorch-tutorial
