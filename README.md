@@ -86,7 +86,8 @@ source deactivate
 
 ## Additionnal resources
 Check out these others tutorials and courses:
-- Official tutorials : https://pytorch.org/tutorials/
+- Official tutorials: https://pytorch.org/tutorials/
+- Step-by-step tutorial: https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
 - PyTorch for DL (.py files): https://github.com/yunjey/pytorch-tutorial
 - PyTorch for DL (notebooks): https://github.com/yandexdataschool/Practical_DL
-- PyTorch for Numpy users : https://github.com/wkentaro/pytorch-for-numpy-users
+
