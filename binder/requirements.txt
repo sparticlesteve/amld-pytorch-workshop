@@ -4,3 +4,4 @@ torchvision
 colorama
 matplotlib
 ipywidgets
+ipympl
