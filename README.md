@@ -1,9 +1,16 @@
 This is a tutorial presented during a [workshop](https://appliedmldays.org/workshops/pytorch-tutorial) at the Applied Machine Learning Days 2020.
 
-## Notebooks on Google Colab
-We will use jupyter notebooks throughout this tutorial.  
-We recommend to run them online on [Google Colaboratory](https://colab.research.google.com).
+We will use jupyter notebooks throughout this tutorial.
+
+We recommend to run them online on **[Google Colaboratory](https://colab.research.google.com)**.  
 That way, you don't have to install anything and you have access to a gpu for free !
+As an alternative, you can also use **[Binder](https://mybinder.org)** or run the notebooks locally.
+
+- ### [Notebooks on Google Colab](#Google-Colab) _(recommended)_
+- ### [Notebooks on Binder](#Binder)  
+- ### [Installing locally](#Installing-locally-using-conda)
+
+## Google Colab
 
 The Google Colab notebooks are available under:
 1. [Basics](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/1-Basics.ipynb)
@@ -24,16 +31,13 @@ You can add GPU support on Google Colab by changing the runtime type as depicted
 ![Google Colab Runtime](figures/colab-runtime.png)
 <br />
 
-## Other installations
 
-We _highly recommend_ to use **Google Colab**  
-As an alternative, you can also use **Binder** or run the notebooks **locally**.
-
-### Binder
+## Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theevann/amld-pytorch-workshop/master) 
 <br />
 
-### Installing locally using conda
+
+## Installing locally using conda
 If you want to run the notebooks locally, you can use `conda`. The following instructions
 should work on Linux/Mac OS, Windows might require slight adaptations.
 
