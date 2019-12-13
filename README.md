@@ -3,12 +3,12 @@ This is a tutorial presented during a [workshop](https://appliedmldays.org/works
 We will use jupyter notebooks throughout this tutorial.
 
 We recommend to run them online on **[Google Colaboratory](https://colab.research.google.com)**.  
-That way, you don't have to install anything and you have access to a gpu for free !
+That way, you don't have to install anything and you have access to a gpu for free !  
 As an alternative, you can also use **[Binder](https://mybinder.org)** or run the notebooks locally.
 
-- ### [Notebooks on Google Colab](#Google-Colab) _(recommended)_
-- ### [Notebooks on Binder](#Binder)  
-- ### [Installing locally](#Installing-locally-using-conda)
+- ### [Notebooks on Google Colab](#google-colab) _(recommended)_
+- ### [Notebooks on Binder](#binder)  
+- ### [Installing locally](#installing-locally-using-conda)
 
 ## Google Colab
 
