@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="477px" height="82px" viewBox="0 0 477 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
-    <title>Group 14</title>
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>computation-graph-2</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <circle id="path-1" cx="106" cy="48" r="17"></circle>
@@ -10,7 +10,7 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" transform="translate(-22.000000, -248.000000)">
-            <g id="Group-14" transform="translate(23.000000, 249.000000)">
+            <g id="computation-graph-2" transform="translate(23.000000, 249.000000)">
                 <polyline id="Path-2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="67 32 82.8206757 32 82.8206757 42.3582 90.7375874 42.3582"></polyline>
                 <polyline id="Path-2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="67 67 82.8206757 67 82.8206757 56.3582 90.7375874 56.3582"></polyline>
                 <polyline id="Path-2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="201 13 216.820676 13 216.820676 23.3582 224.737587 23.3582"></polyline>
