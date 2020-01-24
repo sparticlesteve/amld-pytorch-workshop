@@ -25,7 +25,7 @@ The links below open the notebooks in Google Colab. This way, you don't have to 
 ---
 
 
-# Useful pointers
+# Further learning
 
 Check out these others tutorials and courses if you are hungry to learn more:
 
