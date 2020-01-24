@@ -1,18 +1,13 @@
+---
+
 This is a tutorial presented during a [workshop](https://appliedmldays.org/workshops/pytorch-tutorial) at the Applied Machine Learning Days 2020.
 
-We will use jupyter notebooks throughout this tutorial.
+It consists of 6 interactive Jupyter notebooks.
 
-We recommend to run them online on **[Google Colaboratory](https://colab.research.google.com)**.  
-That way, you don't have to install anything and you have access to a gpu for free !  
-As an alternative, you can also use **[Binder](https://mybinder.org)** or run the notebooks locally.
+# Notebooks
 
-- ### [Notebooks on Google Colab](#google-colab) _(recommended)_
-- ### [Notebooks on Binder](#binder)  
-- ### [Installing locally](#installing-locally-using-conda)
+The links below open the notebooks in Google Colab. This way, you don't have to install anything on your computer and you get a GPU for free.
 
-## Google Colab
-
-The Google Colab notebooks are available under:
 1. [Basics](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/1-Basics.ipynb)
 1. [Autograd](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/2-Autograd.ipynb)
 1. [Optimization](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/3-Optimization.ipynb)
@@ -20,28 +15,46 @@ The Google Colab notebooks are available under:
 1. [CNN](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/5-CNN.ipynb)
 1. [Transfer Learning](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/6-Transfer-Learning.ipynb)
 
-### Using Google Colab
+## Starting a notebook
 
-In order to use Google Colab, you have to login using your Google account:
+### __Log in__ using your Google account:
 ![Google Colab Login](figures/colab-connect.png)
 
-### Changing the runtime type
-You can add GPU support on Google Colab by changing the runtime type as depicted below:
+### Enable GPU support by changing the Runtime Type:
 
 ![Google Colab Runtime](figures/colab-runtime.png)
-<br />
 
+---
+
+
+## Useful pointers
+
+Check out these others tutorials and courses if you are hungry to learn more:
+
+- Official tutorials: https://pytorch.org/tutorials/. There are many!
+- Step-by-step tutorial: https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
+- PyTorch for DL (.py files): https://github.com/yunjey/pytorch-tutorial
+- PyTorch for DL (notebooks): https://github.com/yandexdataschool/Practical_DL
+
+
+
+---
+
+# Alterantive setups
 
 ## Binder
+
+Binder is an alterantive way to run remote notebooks that does not require a Google account.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theevann/amld-pytorch-workshop/master) 
 <br />
 
 
-## Installing locally using conda
+## Running locally using Conda
 If you want to run the notebooks locally, you can use `conda`. The following instructions
 should work on Linux/Mac OS, Windows might require slight adaptations.
 
-#### Step 1: Install conda
+### Step 1: Install conda
 If you have not installed it yet, you can download it from [Anaconda (Python 3.6 version)](https://www.anaconda.com/download/#linux).
 
 Verify that it is installed by running
@@ -87,11 +100,3 @@ The environment can similarly **deactivated** by
 ```bash
 source deactivate
 ```
-
-## Additionnal resources
-Check out these others tutorials and courses:
-- Official tutorials: https://pytorch.org/tutorials/
-- Step-by-step tutorial: https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
-- PyTorch for DL (.py files): https://github.com/yunjey/pytorch-tutorial
-- PyTorch for DL (notebooks): https://github.com/yandexdataschool/Practical_DL
-
