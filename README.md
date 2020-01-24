@@ -29,8 +29,8 @@ Check out these others tutorials and courses if you are hungry to learn more:
 
 - Official tutorials: [pytorch.org/tutorials](https://pytorch.org/tutorials/). There are many!
 - Step-by-step tutorial: [towardsdatascience.com](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
-- PyTorch for DL (.py files): [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
-- PyTorch for DL (notebooks): [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL)
+- PyTorch for deep learning (.py files): [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+- PyTorch for deep learning (notebooks): [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL)
 
 
 
