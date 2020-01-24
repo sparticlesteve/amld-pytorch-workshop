@@ -1,5 +1,3 @@
----
-
 This is a tutorial presented during a [workshop](https://appliedmldays.org/workshops/pytorch-tutorial) at the Applied Machine Learning Days 2020.
 
 It consists of 6 interactive Jupyter notebooks.
@@ -29,10 +27,10 @@ The links below open the notebooks in Google Colab. This way, you don't have to 
 
 Check out these others tutorials and courses if you are hungry to learn more:
 
-- Official tutorials: https://pytorch.org/tutorials/. There are many!
-- Step-by-step tutorial: https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e
-- PyTorch for DL (.py files): https://github.com/yunjey/pytorch-tutorial
-- PyTorch for DL (notebooks): https://github.com/yandexdataschool/Practical_DL
+- Official tutorials: [pytorch.org/tutorials](https://pytorch.org/tutorials/). There are many!
+- Step-by-step tutorial: [towardsdatascience.com](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+- PyTorch for DL (.py files): [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+- PyTorch for DL (notebooks): [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL)
 
 
 
