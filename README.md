@@ -15,12 +15,10 @@ The links below open the notebooks in Google Colab. This way, you don't have to 
 1. [CNN](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/5-CNN.ipynb)
 1. [Transfer Learning](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/6-Transfer-Learning.ipynb)
 
-## Starting a notebook
-
 ### __Log in__ using your Google account:
 ![Google Colab Login](figures/colab-connect.png)
 
-### Enable GPU support by changing the Runtime Type:
+### Enable __GPU support__ by changing the Runtime Type:
 
 ![Google Colab Runtime](figures/colab-runtime.png)
 
