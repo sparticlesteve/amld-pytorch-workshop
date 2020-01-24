@@ -40,7 +40,7 @@ Check out these others tutorials and courses if you are hungry to learn more:
 
 ---
 
-# Alterantive setups
+# Alternative setups
 
 ## Binder
 
