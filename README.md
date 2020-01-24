@@ -22,7 +22,7 @@ The links below open the notebooks in Google Colab. This way, you don't have to 
 
 ### Introduction to Google Colab
 
-[This notebooks](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) covers the basic features of Google Colab.
+[This notebook](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) covers the basic features of Google Colab.
 
 ---
 
