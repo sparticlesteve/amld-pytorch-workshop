@@ -4,7 +4,7 @@ It consists of 6 interactive Jupyter notebooks.
 
 # Notebooks
 
-The links below open the notebooks in Google Colab. This way, you don't have to install anything on your computer and you get a GPU for free.
+The links below open the notebooks in Google Colab. This way, you don't have to install anything on your computer and you get a GPU for free. 
 
 1. [Basics](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/1-Basics.ipynb)
 1. [Autograd](https://colab.research.google.com/github/theevann/amld-pytorch-workshop/blob/master/2-Autograd.ipynb)
@@ -19,6 +19,10 @@ The links below open the notebooks in Google Colab. This way, you don't have to 
 ### Enable __GPU support__ by changing the ‘runtime type’:
 
 ![Google Colab Runtime](figures/colab-runtime.png)
+
+### Introduction to Google Colab
+
+[This notebooks](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) covers the basic features of Google Colab.
 
 ---
 
