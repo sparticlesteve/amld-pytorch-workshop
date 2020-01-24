@@ -18,7 +18,7 @@ The links below open the notebooks in Google Colab. This way, you don't have to 
 ### __Log in__ using your Google account:
 ![Google Colab Login](figures/colab-connect.png)
 
-### Enable __GPU support__ by changing the Runtime Type:
+### Enable __GPU support__ by changing the ‘runtime type’:
 
 ![Google Colab Runtime](figures/colab-runtime.png)
 
